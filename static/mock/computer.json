@@ -1,0 +1,29 @@
+{
+  "status": "0",
+  "result": [{
+    "productId": "10012",
+    "title": "小米笔记本Air 12.5\"",
+    "price": "3599",
+    "image": "//i1.mifile.cn/f/i/g/2015/video/bijiben32012.5.jpg"
+  }, 
+  {
+    "productId": "10013",
+    "title": "小米笔记本Air 13.3\" 独显",
+    "price": "5199",
+    "image": "//i1.mifile.cn/f/i/g/2015/cn-index/bijiben320.jpg"
+  },
+  {
+    "productId": "10014",
+    "title": "小米笔记本Air 13.3\" 集显",
+    "price": "4599",
+    "image": "//i1.mifile.cn/f/i/g/2015/cn-index/bijiben320.jpg"
+  },
+  {
+    "productId": "10015",
+    "title": "小米笔记本Pro 15.6\"",
+    "price": "5599",
+    "image": "//i1.mifile.cn/f/i/g/2015/cn-index/WechatIMG603.png",
+    "flag": "新品"
+  }
+]
+}

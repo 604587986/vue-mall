@@ -1,0 +1,28 @@
+{
+    "status": "0",
+    "result": [{
+      "productId": "10021",
+      "title": "小米盒子3s",
+      "price": "349",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/mihezi.png"
+    }, 
+    {
+      "productId": "10022",
+      "title": "小米盒子3c",
+      "price": "249",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/mihezi.png"
+    },
+    {
+      "productId": "10023",
+      "title": "小米盒子3 增强版",
+      "price": "449",
+      "image": "//i1.mifile.cn/f/i/15/goods/nav/hezi3s.jpg"
+    },
+    {
+      "productId": "10024",
+      "title": "小米家庭影院",
+      "price": "2099",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/320x220.png"
+    }
+  ]
+  }

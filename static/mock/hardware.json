@@ -1,0 +1,41 @@
+{
+    "status": "0",
+    "result": [{
+      "productId": "10031",
+      "title": "小米无人机",
+      "price": "2999",
+      "image": "//i1.mifile.cn/f/i/g/2015/123321.jpg",
+      "flag": "航拍利器"      
+    }, 
+    {
+      "productId": "10032",
+      "title": "小米手环2",
+      "price": "149",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/HD-Pro.png",
+      "flag": "包邮"           
+    },
+    {
+      "productId": "10033",
+      "title": "小米净水器",
+      "price": "1499",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/jsqcs-320-220.png"
+    },
+    {
+      "productId": "10034",
+      "title": "米家扫地机器人",
+      "price": "1699",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/saodijiqiren320-220.jpg"
+    },
+    {
+      "productId": "10035",
+      "title": "米家压力IH电饭煲",
+      "price": "999",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/dfb.jpg"
+    },
+    {
+      "productId": "2",
+      "title": "查看全部",
+      "image": "//i1.mifile.cn/f/i/16/goods/nav/air2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "0",
+  "result": [{
+      "productId": "10006",
+      "title": "红米5",
+      "price": "799",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/5-320-220.png",
+      "flag": "新品"
+    },
+    {
+      "productId": "10007",
+      "title": "红米5 Plus",
+      "price": "999",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/5P-320-220.png",
+      "flag": "新品"
+    },
+    {
+      "productId": "10008",
+      "title": "红米5A",
+      "price": "599",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/320-220-1.png",
+      "flag": "新品"
+    },
+    {
+      "productId": "10009",
+      "title": "红米Note5A 标准版",
+      "price": "699",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/3205a.png"
+    },
+    {
+      "productId": "10010",
+      "title": "红米Note5A 高配版",
+      "price": "899",
+      "image": "//i1.mifile.cn/f/i/g/2015/320-220.jpg"
+    },
+    {
+      "productId": "10011",
+      "title": "红米Note 4X",
+      "price": "999",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/hmn4xtb.jpg"
+    }
+
+  ]
+}

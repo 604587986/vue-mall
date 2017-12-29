@@ -1,0 +1,37 @@
+{
+  "status": "0",
+  "result": [{
+      "productId": "10001",
+      "title": "小米MIX 2",
+      "price": "3299",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/mix2320-220.png",
+      "flag": "新品"
+    },
+    {
+      "productId": "10002",
+      "title": "小米Note 3",
+      "price": "59",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/note2320x220.png",
+      "flag": "新品"      
+    },
+    {
+      "productId": "10003",
+      "title": "小米6",
+      "price": "2299",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/xm6-320.png"
+    },
+    {
+      "productId": "10004",
+      "title": "小米Max 2",
+      "price": "1399",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/max2_toubu.png"
+    },
+    {
+      "productId": "10005",
+      "title": "小米5x",
+      "price": "1499",
+      "image": "//i1.mifile.cn/f/i/g/2015/5x-2.jpg"
+    }
+
+  ]
+}

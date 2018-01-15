@@ -17,7 +17,7 @@
   </div>
 </template>
 <script>
-import axios from "axios";
+import {getslider} from "@/api/Slider.js"
 export default {
   data() {
     return {
@@ -27,8 +27,8 @@ export default {
     };
   },
   created() {
-    axios.get("../../../static/mock/slider.json").then(res => {
-      this.itemList = res.data.result;
+    getslider().then(res => {
+      this.itemList = res.result;
       this.$nextTick(() => {
         this.startTimer();        
       });
@@ -75,7 +75,7 @@ export default {
       left: 0;
       &.slide-enter-active,
       .slide-enter-active {
-        transition: opacity 0.5s;
+        transition: opacity 1s;
       }
       &.slide-enter,
       .slide-leave-to {
@@ -118,19 +118,21 @@ export default {
       width: 100%;
       right: 20px;
       bottom: 20px;
+      box-sizing: content-box;
       .dot {
         float: right;
-        width: 10px;
-        height: 10px;
+        box-sizing: border-box;
+        width: 6px;
+        height: 6px;
         margin: 0 5px;
         border: 2px solid #fff;
-        border-color: rgba(0, 0, 0, 0.3);
-        border-radius: 10px;
+        border-color: rgba(94, 90, 90, 0.3);
+        border-radius: 5px;
         text-align: left;
         text-indent: -9999px;
         overflow: hidden;
         background: rgba(0,0,0,0.4);
-        transition: all .2s;
+        transition: all .5s;
         &.active{
           background: #f5f5f5;
         }

@@ -5,14 +5,22 @@
       "title": "小米MIX 2",
       "price": "3299",
       "image": "//i1.mifile.cn/f/i/g/2015/cn-index/mix2320-220.png",
-      "flag": "新品"
+      "flag": "新品",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }
     },
     {
       "productId": "10002",
       "title": "小米Note 3",
-      "price": "59",
+      "price": "1999",
       "image": "//i1.mifile.cn/f/i/g/2015/cn-index/note2320x220.png",
-      "flag": "新品"      
+      "flag": "新品",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }
     },
     {
       "productId": "10003",

@@ -5,35 +5,55 @@
       "title": "小米电视4 55英寸",
       "price": "3899",
       "image": "//i1.mifile.cn/f/i/g/2015/cn-index/xmds_55.png",
-      "flag": "超薄旗舰"
+      "flag": "超薄旗舰",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }
     }, 
     {
       "productId": "10017",
       "title": "小米电视4A 65英寸",
       "price": "4999",
       "image": "//i1.mifile.cn/f/i/g/2015/cn-index/4a65.png",
-      "flag": "热卖"
+      "flag": "热卖",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }
     },
     {
       "productId": "10018",
       "title": "小米电视4A 32英寸",
       "price": "999",
       "image": "//i1.mifile.cn/f/i/g/2015/cn-index/daohang.png",
-      "flag": "热卖"      
+      "flag": "热卖",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }  
     },
     {
       "productId": "10019",
       "title": "小米电视4A 43英寸",
       "price": "1899",
       "image": "//i1.mifile.cn/f/i/g/2015/cn-index/320_43.png",
-      "flag": "热卖"      
+      "flag": "热卖",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }      
     },
     {
       "productId": "10020",
       "title": "小米电视4A 49英寸",
       "price": "2199",
       "image": "//i1.mifile.cn/f/i/g/2015/cn-index/320_49.png",
-      "flag": "热卖"      
+      "flag": "热卖",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }      
     },
     {
       "productId": "1",

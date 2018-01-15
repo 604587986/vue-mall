@@ -1,0 +1,292 @@
+{
+  "status": 0,
+  "recommend": ["//i1.mifile.cn/a4/1695c18e-8a6b-4bc9-9796-d5abad413184"],
+  "productInfo": [
+    [{
+        "title": "小米电视4 55英寸",
+        "info": "4.9mm 极超薄高端旗舰电视",
+        "price": "3899",
+        "image": "//i1.mifile.cn/a1/pms_1510111588.69169839!220x220.jpg",
+        "review": "还有什么比用55寸&#34;显示器&...",
+        "flag": "享9折",
+        "flagStyle": {
+          "background": "#e53935",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "小米电视4A 49英寸 标准版",
+        "info": "2GB+8GB 大储存 / 全高清HDR",
+        "price": "2199",
+        "image": "//i1.mifile.cn/a1/pms_1503909218.70932288!220x220.png",
+        "review": "宝贝，收到，我真心话，小米是我这几年忠实伴侣，从手机...",
+        "flag": "享9.2折",
+        "flagStyle": {
+          "background": "#e53935",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "13.3\"小米笔记本Air i5",
+        "price": "5199",
+        "info": " ",
+        "image": "//i1.mifile.cn/a1/pms_1496997930.13622399!220x220.jpg",
+        "review": "看了很多客服妹子的文采，也给我评论下呗，从小米2s,..."
+      },
+      {
+        "title": "15.6\"小米笔记本Pro i7 16G MX150 深空灰",
+        "info": "2GB+8GB 大储存 / 全高清HDR",
+        "price": "6999",
+        "image": "//i1.mifile.cn/a1/pms_1505897517.20426731!220x220.jpg",
+        "review": "不错，用起很舒服，唯一缺点，没银色"
+      },
+      {
+        "title": "米家压力IH电饭煲",
+        "info": "智能烹饪，灰铸铁粉体涂层内胆",
+        "price": "999",
+        "image": "//i1.mifile.cn/a1/T1OVC_ByY_1RXrhCrK!220x220.jpg",
+        "review": "小米发货速度飞快！东西非常漂亮！物美价廉！非常满意！"
+      },
+      {
+        "title": "小米净水器（厨下式）",
+        "info": "大流量直出纯净水，健康家庭必备",
+        "price": "1999",
+        "image": "//i1.mifile.cn/a1/T1hMK_BjEv1RXrhCrK!220x220.jpg",
+        "review": "太满意了，小米的产品，重品质，重服务，精细美观，水质..."
+      },
+      {
+        "title": "小米米家空气净化器 2S",
+        "price": "899",
+        "info": " ",
+        "image": "//i1.mifile.cn/a1/pms_1510020567.64467830!220x220.jpg",
+        "review": "给儿童房配置的，外观很大气，喜欢它的个性化设置，尤其...",
+        "flag": "新品",
+        "flagStyle": {
+          "background": "#83c44e",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "小白摄像机",
+        "price": "399",
+        "image": "//i1.mifile.cn/a1/pms_1468806372.46368911!220x220.jpg"
+      }
+    ],
+    [{
+        "title": "小米电视4A 55英寸",
+        "info": "4K高清HDR / 真四核64位高性能处理器",
+        "price": "2799",
+        "image": "//i1.mifile.cn/a1/pms_1503909300.25797209!220x220.png",
+        "review": "小米的品质和性价比我不愿意在这里多说，如果不是最好的...",
+        "flag": "享9.4折",
+        "flagStyle": {
+          "background": "#e53935",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "小米电视4C 55英寸",
+        "info": "4K HDR / 人工智能电视 / 超窄边",
+        "price": "2899",
+        "image": "//i1.mifile.cn/a1/pms_1508927539.71959246!220x220.png",
+        "review": "非常完美！超大超薄超级棒",
+        "flag": "享9.4折",
+        "flagStyle": {
+          "background": "#e53935",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "小米电视4A 32英寸",
+        "price": "999",
+        "info": "64位四核处理器 / 1GB+4GB大内存  ",
+        "image": "//i1.mifile.cn/a1/pms_1500287084.72131750!220x220.jpg",
+        "review": "照片看的不好，但是现实效果非常满意，物超所值大力支持...",
+        "flag": "享9折",
+        "flagStyle": {
+          "background": "#e53935",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "小米电视4A 65英寸",
+        "info": "4K超高清屏 / 真四核64位高性能处理器",
+        "price": "4999",
+        "image": "//i1.mifile.cn/a1/pms_1490077569.08131612!220x220.png",
+        "review": "不错  不错  值得购买"
+      },
+      {
+        "title": "小米电视4A 43英寸",
+        "info": "全高清屏 / 人工智能语音 / 大存储",
+        "price": "1899",
+        "image": "//i1.mifile.cn/a1/pms_1503909150.67293503!220x220.png",
+        "review": "太好了，效果很好，我同事看了也打算买一台。小米电视就...",
+        "flag": "享9.5折",
+        "flagStyle": {
+          "background": "#e53935",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "小米电视4C 43英寸",
+        "info": "人工智能 / 全高清屏幕 / 大内存",
+        "price": "1899",
+        "image": "//i1.mifile.cn/a1/pms_1509694019.50094281!220x220.png",
+        "review": "太满意了，小米的产品，重品质，重服务，精细美观，水质...",
+        "flag": "享9.1折",
+        "flagStyle": {
+          "background": "#e53935",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "小米盒子3 增强版",
+        "price": "449",
+        "info": "高端 4K 网络机顶盒 ",
+        "image": "//i1.mifile.cn/a1/pms_1499072633.96298268!220x220.jpg",
+        "review": "盒子就认小米，功能强大。"
+      },
+      {
+        "title": "小米盒子3s",
+        "price": "349",
+        "image": "//i1.mifile.cn/a1/pms_1479190789.95594557!220x220.jpg"
+      }
+    ],
+    [{
+        "title": "12.5\"小米笔记本Air M3 4G 128G 银色",
+        "info": " ",
+        "price": "3599",
+        "image": "//i1.mifile.cn/a1/pms_1514387870.88251945!220x220.jpg"
+      },
+      {
+        "title": "小米笔记本Air13.3英寸",
+        "info": "第7代CPU 2G独显 指纹解锁",
+        "price": "5199",
+        "image": "//i1.mifile.cn/a1/pms_1496997930.13622399!220x220.jpg",
+        "review": "非常完美！超大超薄超级棒"
+      },
+      {
+        "title": "小米笔记本Air 13.3英寸",
+        "price": "4999",
+        "info": "Intel 酷睿i5 处理器 独立显卡 ",
+        "image": "//i1.mifile.cn/a1/pms_1469583247.6157588!220x220.jpg",
+        "review": "客服妹纸，说好可以DIY的，死活找不到，我的梵高星空..."
+      },
+      {
+        "title": "小米笔记本Air 12.5英寸",
+        "info": "更轻更薄，像杂志一样随身携带",
+        "price": "3999",
+        "image": "//i1.mifile.cn/a1/pms_1490604807.82792204!220x220.jpg",
+        "review": "外形真的超赞，散热也很好啊，只是一直没找到256GB..."
+      },
+      {
+        "title": "小米无线鼠标",
+        "info": "耐脏亲肤涂层，人体工学设计",
+        "price": "69",
+        "image": "//i1.mifile.cn/a1/pms_1490595812.95661863!220x220.png",
+        "review": "挺好的，大小正合适。照片里的笔记本正是小米笔记本pro"
+
+      },
+      {
+        "title": "小米便携鼠标",
+        "info": "轻薄便携，铝合金外壳 +ABS 材质",
+        "price": "99",
+        "image": "//i1.mifile.cn/a1/pms_1478248566.62624407!220x220.jpg",
+        "review": "像客服妹子一样漂亮！（说不定是个抠脚大汉）"
+      },
+      {
+        "title": "悦米机械键盘",
+        "price": "289",
+        "info": "铝合金机身，TTC红轴，87 键",
+        "image": "//i1.mifile.cn/a1/pms_1490702347.3628109!220x220.png",
+        "review": "厚重的机身，舒适按键，一直钟爱米家"
+      },
+      {
+        "title": "多功能转接器",
+        "price": "149",
+        "image": "//i1.mifile.cn/a1/pms_1469523170.25518983!220x220.jpg"
+      }
+    ],
+    [{
+        "title": "米家恒温电水壶",
+        "info": "水温智能控制，304 不锈钢内胆 ",
+        "price": "189",
+        "image": "//i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+        "review":"样子美观大方，加上优惠券这个壶太划算了，祝小米明年越...",
+        "flag": "享9.5折",
+        "flagStyle": {
+          "background": "#e53935",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "小米随身手电筒",
+        "info": "11 挡调光，随心而亮",
+        "price": "79",
+        "image": "//i1.mifile.cn/a1/pms_1506417289.23728408!220x220.jpg",
+        "review": "客服妹子如此多娇，引无数抠脚大汉竞折腰",
+        "flag": "新品",
+        "flagStyle": {
+          "background": "#83c44e",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "米家扫地机器人",
+        "price": "1699",
+        "info": "智能路径规划，扫得干净扫得快",
+        "image": "//i1.mifile.cn/a1/pms_1472609961.95298675!220x220.jpg",
+        "review": "自从有了小米扫地机器人，我的床底再也不能藏零食了"
+      },
+      {
+        "title": "小米空气净化器2",
+        "info": "10分钟，房间空气焕然一新",
+        "price": "699",
+        "image": "//i1.mifile.cn/a1/T1zBYgBCWv1RXrhCrK!220x220.jpg",
+        "review": "一入小米深似海，从此不停买买买。一单买了四台放办公室..."
+      },
+      {
+        "title": "米家压力IH电饭煲",
+        "info": "智能烹饪，灰铸铁粉体涂层内胆",
+        "price": "949",
+        "image": "//i1.mifile.cn/a1/T1OVC_ByY_1RXrhCrK!220x220.jpg",
+        "review": "中国人终于可以不要到国外去买电饭煲了！坐在家里点点手...",
+        "flag": "享9.5折",
+        "flagStyle": {
+          "background": "#e53935",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "飞利浦智睿球泡灯",
+        "info": "自由调节亮度，Wi-Fi随时操控",
+        "price": "44",
+        "image": "//i1.mifile.cn/a1/pms_1496647119.81414190!220x220.jpg",
+        "review": "客服妹纸，来来来，快扶我上墙一次吧",
+        "flag": "享9折",
+        "flagStyle": {
+          "background": "#e53935",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "米家 LED 智能台灯",
+        "price": "159",
+        "info": "非常好，就缺一个小爱同学给我开灯了，客服你怎么看。",
+        "image": "//i1.mifile.cn/a1/pms_1495520422.36514041!220x220.jpg",
+        "review": "非常好，就缺一个小爱同学给我开灯了，客服你怎么看。",
+        "flag": "享9.5折",
+        "flagStyle": {
+          "background": "#e53935",
+          "color": "#fff"
+        }
+      },
+      {
+        "title": "Yeelight LED 吸顶灯",
+        "price": "359",
+        "image": "//i1.mifile.cn/a1/pms_1490756071.3088664!220x220.png"
+      }
+    ]
+    
+  ]
+}

@@ -1,45 +1,65 @@
 {
-    "status": "0",
-    "result": [{
+  "status": "0",
+  "result": [{
       "productId": "10025",
       "title": "小米路由器 3A",
       "price": "99",
-      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/mihezi.png",
-      "flag": "新品"      
-    }, 
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/320X220.jpg",
+      "flag": "新品",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }
+    },
     {
       "productId": "10026",
       "title": "小米路由器 HD/Pro",
       "price": "499",
-      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/mihezi.png",
-      "flag": "大容量"      
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/HD-Pro.png",
+      "flag": "大容量",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }
     },
     {
       "productId": "10027",
       "title": "小米路由器 3G",
       "price": "199",
-      "image": "//i1.mifile.cn/f/i/15/goods/nav/hezi3s.jpg",
-      "flag": "双千兆"           
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/3G.png",
+      "flag": "双千兆",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }
     },
     {
       "productId": "10028",
       "title": "小米路由器 3",
       "price": "119",
-      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/320x220.png",
-      "flag": "双频"           
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/xmlyq3.png",
+      "flag": "双频",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }
     },
     {
       "productId": "10029",
       "title": "小米路由器 3C",
       "price": "79",
-      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/320x220.png",
-      "flag": "包邮"           
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/3C.png",
+      "flag": "包邮",
+      "flagStyle": {
+        "border": "1px solid #ff6700",
+        "color": "#ff6700"
+      }
     },
     {
       "productId": "10030",
       "title": "小米WiFi电力猫",
       "price": "249",
-      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/320x220.png"
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/dlm01.png"
     }
   ]
 }

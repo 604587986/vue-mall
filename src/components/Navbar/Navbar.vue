@@ -63,53 +63,52 @@
 </template>
 <script>
 import Thumbnail from "@/components/thumbnail/thumbnail.vue";
-import axios from "axios";
+import * as getNavbar from "@/api/Navbar.js";
 export default {
   props: {
     queryList: {
       type: Array,
       default() {
-        return [{ name: "小米手机6", count: "24" },{ name: "小米5x", count: "6" }]          
+        return [{ name: "小米手机6", count: "24" }, { name: "小米5x", count: "6" }];
       }
     }
   },
   data() {
     return {
-      showDropdown:false,
+      showDropdown: false,
       inputFocus: false,
       currentList: [],
       xiaomiList: [],
-      redmiList:[],
-      computerList:[],
-      tvList:[],
-      boxList:[],
-      routerList:[],
-      hardwareList:[]
+      redmiList: [],
+      computerList: [],
+      tvList: [],
+      boxList: [],
+      routerList: [],
+      hardwareList: []
     };
   },
   created() {
-    axios.get("../../../static/mock/xiaomi.json").then(res => {
-      this.xiaomiList = res.data.result;
+    getNavbar.getxiaomi().then(res => {
+      this.xiaomiList = res.result;
     });
-    axios.get("../../../static/mock/redmi.json").then(res => {
-      this.redmiList = res.data.result;
+    getNavbar.getredmi().then(res => {
+      this.redmiList = res.result;
     });
-    axios.get("../../../static/mock/computer.json").then(res => {
-      this.computerList = res.data.result;
+    getNavbar.getcomputer().then(res => {
+      this.computerList = res.result;
     });
-    axios.get("../../../static/mock/tv.json").then(res => {
-      this.tvList = res.data.result;
+    getNavbar.gettv().then(res => {
+      this.tvList = res.result;
     });
-    axios.get("../../../static/mock/box.json").then(res => {
-      this.boxList = res.data.result;
+    getNavbar.getbox().then(res => {
+      this.boxList = res.result;
     });
-    axios.get("../../../static/mock/router.json").then(res => {
-      this.routerList = res.data.result;
+    getNavbar.getrouter().then(res => {
+      this.routerList = res.result;
     });
-    axios.get("../../../static/mock/hardware.json").then(res => {
-      this.hardwareList = res.data.result;
+    getNavbar.gethardware().then(res => {
+      this.hardwareList = res.result;
     });
-    
   },
   components: {
     Thumbnail
@@ -204,7 +203,7 @@ export default {
       position: absolute;
       left: 0;
       top: 48px;
-      z-index: 51;
+      z-index: 61;
       width: 243px;
       border: 1px solid #ff6700;
       border-top: 0;
@@ -226,7 +225,7 @@ export default {
             float: left;
           }
           .right {
-            display: block;            
+            display: block;
             float: right;
             color: #b0b0b0;
           }
@@ -234,27 +233,27 @@ export default {
       }
     }
   }
-  &>.dropdown {
+  & > .dropdown {
     position: absolute;
-    display: none;
     top: 100px;
     left: 0;
     z-index: 60;
     width: 100%;
     border-top: 1px solid #e0e0e0;
     background: #fff;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.18);
     overflow: hidden;
-    transition: all 0.5s;
-    &.active{
-      display: block
+    transition: height 0.3s;
+    height: 0;
+    &.active {
+      height: 241px;
+      box-shadow: 0 3px 4px rgba(0, 0, 0, 0.18);
     }
     ul {
       font-size: 0;
       li {
         display: inline-block;
         position: relative;
-        padding: 35px 20px;
+        padding: 0 20px 20px;
         &:first-child {
           margin-left: 20px;
         }

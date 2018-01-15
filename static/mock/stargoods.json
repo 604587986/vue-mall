@@ -1,0 +1,74 @@
+{
+  "status": "0",
+  "result": [{
+      "productId": "10004",
+      "title": "小米Max 2",
+      "price": "1399",
+      "info": "大屏大电量，轻薄全金属",
+      "image": "//i1.mifile.cn/a4/xmad_1496643954435_EcHtv.png"
+    },
+    {
+      "productId": "10001",
+      "title": "小米MIX 2",
+      "price": "3299",
+      "info": "全面屏2.0，5.99\"大屏",
+      "image": "//i1.mifile.cn/a4/xmad_15117763019255_STRfj.png"
+    },
+    {
+      "productId": "10008",
+      "title": "红米5A",
+      "price": "599",
+      "info": "8天超长待机，137g轻巧机身",
+      "image": "//i1.mifile.cn/a4/xmad_15125569508853_uWAIK.png"
+    },
+    {
+      "productId": "10019",
+      "title": "小米电视4A 43英寸 标准版",
+      "price": "1899",
+      "info": "全高清HDR 四核高性能处理器",
+      "image": "//i1.mifile.cn/a1/pms_1503909150.67293503!220x220.png"
+    },
+    {
+      "productId": "10012",
+      "title": "小米笔记本",
+      "price": "3599",
+      "info": "更轻更薄，像杂志一样随身携带",
+      "image": "//i1.mifile.cn/a4/725a37e3-78b7-4298-8098-c40097bf179d"
+    },
+    {
+      "productId": "10032",
+      "title": "小米手环2",
+      "price": "149",
+      "info": "OLED 显示屏幕，升级计步算法",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/HD-Pro.png"
+    },
+    {
+      "productId": "10033",
+      "title": "小米净水器 厨下式",
+      "price": "1999",
+      "info": "直出纯净水，隐藏式安装",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/jsqcs-320-220.png"
+    },
+    {
+      "productId": "20001",
+      "title": "小米圈铁耳机Pro",
+      "price": "149",
+      "info": "独创双动圈+动铁，三单元发声",
+      "image": "//i1.mifile.cn/a4/302f2608-655a-489c-a0c5-a3b9172defd1"
+    },
+    {
+      "productId": "10034",
+      "title": "米家扫地机器人",
+      "price": "1699",
+      "info": "爱干净，高效完成清扫任务",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/saodijiqiren320-220.jpg"
+    },
+    {
+      "productId": "10028",
+      "title": "小米路由器 3",
+      "price": "119",
+      "info": "更快更强，不止四天线",
+      "image": "//i1.mifile.cn/f/i/g/2015/cn-index/320x220.png"
+    }
+  ]
+}

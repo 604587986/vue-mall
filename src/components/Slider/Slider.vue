@@ -37,6 +37,7 @@ export default {
   methods: {
     stopTimer() {
       clearInterval(this.timer);
+      console.log(1111)
     },
     startTimer() {
       this.timer = setInterval(this.showImg, 3000);

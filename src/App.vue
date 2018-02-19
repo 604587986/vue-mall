@@ -86,6 +86,7 @@ export default {
 
 <style lang="less">
 #app {
+  min-width: 1226px;
   .container {
     position: relative;
     .slider-next {
@@ -141,9 +142,9 @@ export default {
       }
     }
   }
-  .main{
-      background: #f5f5f5;
-      width: 100%;
+  .main {
+    background: #f5f5f5;
+    width: 100%;
   }
 }
 </style>

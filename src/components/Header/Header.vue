@@ -81,6 +81,7 @@ export default {
   font-size: 12px;
   color: #b0b0b0;
   background: #333;
+  width: 100%;
   a {
     color: #b0b0b0;
   }

@@ -143,6 +143,7 @@ export default {
   }
   .main{
       background: #f5f5f5;
+      width: 100%;
   }
 }
 </style>
